@@ -1,5 +1,9 @@
 #!/usr/bin/env
 
+directory=/home/pi/ECBees
+
+
+
 # visual data collection
 # make sure start_motion_daemon=yes is in the motion.conf file
 sudo motion
