@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-directory=/home/pi/ECBees
+# directory=/home/pi/ECBees
 
 
 
