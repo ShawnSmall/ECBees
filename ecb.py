@@ -31,6 +31,12 @@ except:
     file.close() # make sure the file is closed
     print("done.")
 
+# photoperiod data collection
+
+
+
+
+
 # vibroacoustic data collection
 
 
